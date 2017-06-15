@@ -18,7 +18,7 @@ Learn to create your own blog using the `Jekyll` static site generator. You’ll
 Part I: History and Development
 [x] 1. Static Web
 [x] 2. Web 2.0
-[ ] 3. Static Site Generators
+[x] 3. Static Site Generators
 Part II: The Fundamentals
 [ ] 4. Fundamentals of Version Control
 [ ] 5. Fundamentals of Style
