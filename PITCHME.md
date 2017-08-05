@@ -4,8 +4,8 @@
 
 ### eBook Project
 
-<span style="color:gray">Ebook subtitle</span><br/>
-<span style="color:gray">by Author</span>
+<span style="color:gray">Build elegant and minimalistic blogs</span><br/>
+<span style="color:gray">by Vikram Chillon</span>
 
 ---
 
