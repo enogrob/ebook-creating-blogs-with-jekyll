@@ -1,3 +1,4 @@
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/enogrob/ebook-creating-blogs-with-jekyll/master)
 ```
 Roberto Nogueira  
 BSd EE, MSd CE
